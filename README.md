@@ -1,6 +1,6 @@
 # MyBus
 Aplikasi penjualan tiket bus berbasis java desktop
-<img src="https://user-images.githubusercontent.com/30565150/38081322-f637a04c-336d-11e8-8c30-1fe325270651.png">
+
 
 ## Features
 <ol>
